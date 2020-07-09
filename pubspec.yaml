@@ -1,0 +1,5 @@
+name: MyApp
+description: ""
+dependencies:
+  dialogue_wise: null
+dev_dependencies: {}
