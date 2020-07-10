@@ -3,7 +3,7 @@
 </p>  
 <br/>
 <p align="center">
-Headless CMS to Manage Multi-Platform Content
+Headless CMS for Dart apps
 </p>  
 <br/>
 
