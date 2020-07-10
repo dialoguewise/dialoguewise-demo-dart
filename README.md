@@ -2,9 +2,9 @@
 <a href="https://dialoguewise.com" target="_blank"><img src="https://github.com/dialoguewise/dialoguewise-demo/blob/master/screenshots/logo.PNG?raw=true"></a>
 </p>  
 <br/>
-<p align="center">
-Headless CMS for Dart apps
-</p>  
+<h1 align="center">
+Headless CMS for Dart
+</h1>  
 <br/>
 
 ## About this repo?
@@ -24,7 +24,9 @@ pub get
 ```
 
 
-Please refer to [main.dart](https://github.com/dialoguewise/dialoguewise-demo-dart/blob/master/main.dart) in the git repo which demonstrates usage of this package. There is also a fiddle available at [Repl.it](https://repl.it/@DialogueWise/dialoguewise-demo-dart)
+Please refer to [main.dart](https://github.com/dialoguewise/dialoguewise-demo-dart/blob/master/main.dart) in the git repo which demonstrates usage of this package. 
+
+There is also a fiddle available at [Repl.it](https://repl.it/@DialogueWise/dialoguewise-demo-dart)
 
 Also, for more details, have a look at the [documentation](https://docs.dialoguewise.com/).
 
